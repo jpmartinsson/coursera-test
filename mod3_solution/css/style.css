@@ -1,0 +1,27 @@
+h1 {
+  font-size: 24px
+}
+
+.navbar-header .navbar-toggle, .navbar-header .navbar-toggle .icon-bar {
+  border: 1px solid white;
+}
+
+.navbar-header .navbar-toggle.collapsed, .navbar-header .navbar-toggle.collapsed .icon-bar {
+  border: 1px solid #888;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.navbar-default {
+  background-color: lightblue;
+}
+
+#tall-section {
+  background-color: #eeeeee;
+  min-height: 1500px;
+  margin: 10px;
+  padding: 10px 0px;
+}
